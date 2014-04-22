@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 1era prueba | Martin Brambati]]></title>
+  <link href="http://martinbrambati.github.io/blog/categories/1era-prueba/atom.xml" rel="self"/>
+  <link href="http://martinbrambati.github.io/"/>
+  <updated>2014-04-22T15:49:21-03:00</updated>
+  <id>http://martinbrambati.github.io/</id>
+  <author>
+    <name><![CDATA[Martin Brambati]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[1er post de prueba]]></title>
+    <link href="http://martinbrambati.github.io/blog/2014/04/22/1er-post-de-prueba/"/>
+    <updated>2014-04-22T12:51:59-03:00</updated>
+    <id>http://martinbrambati.github.io/blog/2014/04/22/1er-post-de-prueba</id>
+    <content type="html"><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets <!-- more -->
+containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content>
+  </entry>
+  
+</feed>
