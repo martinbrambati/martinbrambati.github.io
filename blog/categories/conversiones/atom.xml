@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Martin Brambati]]></title>
-  <link href="http://martinbrambati.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Conversiones | Martin Brambati]]></title>
+  <link href="http://martinbrambati.github.io/blog/categories/conversiones/atom.xml" rel="self"/>
   <link href="http://martinbrambati.github.io/"/>
   <updated>2014-04-29T18:08:22-03:00</updated>
   <id>http://martinbrambati.github.io/</id>
